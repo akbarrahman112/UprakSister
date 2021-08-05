@@ -1,2 +1,2 @@
 # UprakSister
-UAS praktikum sistem terdistribusi kelompok 4
+Hai Akbar ini aku Rivkey
